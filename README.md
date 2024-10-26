@@ -1,6 +1,4 @@
 
-Here's the README in a single-page layout for easy viewing and posting on GitHub:
-
 Impound Script for FiveM
 A custom impound script for FiveM that allows players to impound vehicles and view impounded vehicles. This script uses ox_lib for menu functionality and includes two main commands: /impound and /showimpound.
 
