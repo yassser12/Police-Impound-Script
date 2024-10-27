@@ -1,6 +1,6 @@
 
 Impound Script for FiveM
-A custom impound script for FiveM that allows players to impound vehicles and view impounded vehicles. This script uses ox_lib for menu functionality and includes two main commands: /impound and /showimpound.
+A custom impound script for FiveM that allows players to impound vehicles and view impounded vehicles. This script uses ox_lib for menu functionality and includes two main commands: /impound and /impoundmenu.
 
 Features
 Impound Vehicles: Players can impound vehicles with the /impound command.
